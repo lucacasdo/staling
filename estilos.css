@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+.logotype{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.fundo-branco{
+    background-color: white;
+}
+
+#logotype{
+    margin-top: -60px;
+    margin-left: -40px;
+    max-width: 450px;
+    max-height: 450px;
+    width: auto;
+    min-height: auto;
+}
